@@ -1,0 +1,19 @@
+
+.heading {
+    margin-top: 1.5em; 
+    margin-bottom: 0.5em;
+    font-size: 1.5em; 
+    font-weight: bold; 
+    font-family: Outfit;
+    color: white;
+ 
+}
+
+.sub-heading {
+    margin-top: 1em; 
+    margin-bottom: 0.5em; 
+    font-size: 1.25em; 
+    font-weight: bold; 
+    font-family: Outfit;
+    color: white;
+}
